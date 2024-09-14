@@ -1,0 +1,12 @@
+{
+  "name": "cursoyt",
+  "version": "1.0.0",
+  "description": "Una breve descripción de lo que hace el proyecto y para qué es útil.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
